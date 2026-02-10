@@ -2,6 +2,8 @@
 
 This repository contains a step-by-step project focused on identifying, evaluating, and mitigating color bias in convolutional neural networks (CNNs). It explores the "Shortcut Learning" phenomenon—where a model, like a **"Lazy Artist"**, learns simple cues (like color) instead of underlying shapes—and uses Sparse Autoencoders (SAEs) for interpretability.
 
+Try to run whenever possible in colab as i havent tested in local environment
+
 ## 📁 Directory Structure
 
 The project is organized into several tasks, each corresponding to a specific stage of the challenge:
